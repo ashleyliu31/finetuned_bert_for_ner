@@ -11,4 +11,4 @@ Colab Notebook: https://colab.research.google.com/drive/1gOOWK_Zt4wnoZLEyeNm4p-9
 
 Dataset: https://huggingface.co/datasets/ashleyliu31/tech_product_names_ner
 
-Credits to NielsRogge for the part on training: https://github.com/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT.ipynb
+Credits to NielsRogge for the part on finetuning BERT: https://github.com/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT.ipynb
