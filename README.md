@@ -10,3 +10,5 @@ Model Link & API Demo: https://huggingface.co/ashleyliu31/bert-finetuned-tech-pr
 Colab Notebook: https://colab.research.google.com/drive/1gOOWK_Zt4wnoZLEyeNm4p-9iZb_Vz7co?usp=sharing
 
 Dataset: https://huggingface.co/datasets/ashleyliu31/tech_product_names_ner
+
+Credits to NielsRogge: https://github.com/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT.ipynb
